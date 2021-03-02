@@ -1,5 +1,5 @@
 import java.io.*;
-public class ReverseALinkedList {
+public class ReverseALinkedListDataIterative {
   public static class Node {
     int data;
     Node next;
